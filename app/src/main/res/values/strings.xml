@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SpinnerAdapterExample</string>
+    <string-array name="princess">
+        <item>Rapunzel</item>
+        <item>SnowWhite</item>
+        <item>Cinderella</item>
+        <item>Pacahontas</item>
+        <item>Jasmine</item>
+        <item>Mulan</item>
+        <item>Aurora</item>
+        <item>Ariel</item>
+        <item>Bella</item>
+    </string-array>
+</resources>
